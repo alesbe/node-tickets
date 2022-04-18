@@ -4,8 +4,6 @@
 
 Sistema de cola de tickets hecho con [socket.io](https://socket.io/) y [express](https://expressjs.com/es/).
 
-[Pulsa aqui para abrir la aplicación](https://nexobeta28-tickets.herokuapp.com/)
-
 ## Secciones
 
 ## Sección 1: Generar nuevos tickets
