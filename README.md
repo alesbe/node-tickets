@@ -33,8 +33,10 @@ This section allows you to access any screen
 - Unlimited number of desktops to be created
 
 ## Install
+
+### Option 1: Docker 🐳
+[Download docker image](https://hub.docker.com/repository/docker/alesbe/node-tickets)
+
+### Option 2: Run the app yourself
 - Install dependencies `npm install`
 - Start server `npm start`
-
-### Requirements
-- NodeJS
